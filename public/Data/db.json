@@ -1,0 +1,121 @@
+{
+  "categorias": [
+    {
+      "nombre": "Hombres",
+      "img": "./img-categoria-hombres/banner-hombre.png",
+      "productos": [
+        {
+          "categoria": "hoodie",
+          "img": "https://dummyimage.com/600x400/3b393b/101211.png&text=Hoodies",
+          "name": "Hoodie gris ligero",
+          "id": "01",
+          "price": 90
+        },
+        {
+          "categoria": "jeans",
+          "img": "https://dummyimage.com/600x400/3b393b/101211.png&text=Hoodies",
+          "name": "Jeans Slim",
+          "id": "02",
+          "price": 99
+        },
+        {
+          "categoria": "pantalones",
+          "img": "https://dummyimage.com/600x400/3b393b/101211.png&text=Hoodies",
+          "name": "Pantalon de tela",
+          "id": "09",
+          "price": 99
+        },
+        {
+          "categoria": "pantalonetas",
+          "img": "https://dummyimage.com/600x400/3b393b/101211.png&text=Hoodies",
+          "name": "Pantaloneta elegante",
+          "id": "10",
+          "price": 99
+        },
+        {
+          "categoria": "esenciales",
+          "img": "https://dummyimage.com/600x400/3b393b/101211.png&text=Hoodies",
+          "name": "Hoodie Negro",
+          "id": "11",
+          "price": 99
+        }
+      ]
+    },
+    {
+      "nombre": "Mujeres",
+      "img": "./img-categoria-mujeres/banner-mujer.png",
+      "productos": [
+        {
+          "categoria": "camisas",
+          "img": "https://dummyimage.com/600x400/212021/424242.png&text=Camisas",
+          "name": "Camisa ligera",
+          "id": "03",
+          "price": 75
+        },
+
+        {
+          "categoria": "busos xl",
+          "img": "https://dummyimage.com/600x400/212021/424242.png&text=Camisas",
+          "name": "Buso XL con capota",
+          "id": "04",
+          "price": 150
+        },
+        {
+          "categoria": "esenciales",
+          "img": "https://dummyimage.com/600x400/212021/424242.png&text=Camisas",
+          "name": "Camiseta blanca",
+          "id": "12",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "nombre": "Cosas",
+      "img": "./img-categoria-cosas/banner-cosas.png",
+      "productos": [
+        {
+          "categoria": "pulseras",
+          "img": "https://dummyimage.com/600x400/2b2a2b/424242.png&text=Cosas",
+          "name": "Pulsera elgante",
+          "id": "05",
+          "price": 8
+        },
+
+        {
+          "categoria": "gorras",
+          "img": "https://dummyimage.com/600x400/2b2a2b/424242.png&text=Cosas",
+          "name": "Gorra de ala corta",
+          "id": "06",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "nombre": "Sales",
+      "img": "./img-categoria-sales/banner-sale.png",
+      "productos": [
+        {
+          "categoria": "camisas",
+          "img": "https://dummyimage.com/600x400/423f42/211f21.png&text=Sales",
+          "name": "Camisa formal",
+          "id": "07",
+          "price": 15
+        },
+        {
+          "categoria": "gorras",
+          "img": "https://dummyimage.com/600x400/423f42/211f21.png&text=Sales",
+          "name": "Gorra tipo golf",
+          "id": "08",
+          "price": 15
+        },
+        {
+          "categoria": "esenciales",
+          "img": "https://dummyimage.com/600x400/212021/424242.png&text=Camisas",
+          "name": "Camiseta negra",
+          "id": "13",
+          "price": 150
+        }
+      ]
+    }
+  ]
+}
