@@ -222,13 +222,13 @@ const TextPressure = ({
         </h1>
 
         <div
-          className="bg-slate-950 rounded-3xl p-1 px-1 flex flex-col 
+          className="rounded-3xl p-1 px-1 flex flex-col 
           justify-center items-center 
         mt-8"
         >
           <Link
             to="/categorias/allProducts"
-            className=" bg-orange-600 opacity-95 rounded-3xl w-full text-center text-white 
+            className=" bg-orange-600 border border-slate-950 opacity-95 rounded-3xl w-full text-center text-white 
             font-atkinson font-medium 
             text-xl lg:text-2xl p-1 px-5"
           >

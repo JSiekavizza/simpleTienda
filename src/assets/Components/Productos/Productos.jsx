@@ -25,11 +25,11 @@ const Productos = () => {
                 <img
                   src={categoria.img}
                   alt={categoria.nombre}
-                  className="bg-black opacity-70 h-full w-full object-cover object-center block absolute 
-                   "
+                  className="bg-black opacity-70 h-full w-full object-cover 
+                  object-center block absolute"
                 />
                 <div
-                  className=" rounded-md text-center
+                  className=" rounded-md text-center font-robotoMono
                    text-white text-2xl underline underline-offset-8
                    duration-100 ease-in-out transform active:scale-125 p-2"
                 >
