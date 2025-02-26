@@ -41,7 +41,7 @@ const Menu = () => {
           {slides.map((slide) => (
             <div
               key={slide.id}
-              className="flex-shrink-0 w-full h-10 flex items-center justify-center text-black text-xl font-bold"
+              className="flex-shrink-0 w-full h-10 flex items-center justify-center text-black text-md font-bold"
             >
               {slide.text}
             </div>
