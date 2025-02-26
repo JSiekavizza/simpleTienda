@@ -11,9 +11,9 @@ const CartContent = () => {
 
   return (
     <>
-      <div className="bg-white">
+      <div className="relative z-10 bg-white">
         <CartElements />
-        <button className="w-full p-6">
+        <button className=" w-full p-6">
           <CartTotal />
         </button>
       </div>

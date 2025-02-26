@@ -10,10 +10,12 @@ const CartTotal = () => {
 
   return (
     <div
-      className="bg-orange-600 opacity-90 flex flex-col items-center 
-    rounded-md p-5 text-center shadow-lg shadow-gray-500"
+      className="bg-orange-600 flex flex-col items-center 
+    rounded-md p-5 text-center shadow-lg shadow-gray-500 "
     >
-      <button className="text-black text-4xl font-bold">Realizar Pedido</button>
+      <button className="text-black text-4xl font-bold ">
+        Realizar Pedido
+      </button>
       <IoLogoWhatsapp className="text-black text-3xl w-72" />
       <h3 className="text-black">Valor Total: ${total} .000</h3>
     </div>

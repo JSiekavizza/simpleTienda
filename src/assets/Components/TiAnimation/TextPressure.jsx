@@ -228,7 +228,8 @@ const TextPressure = ({
         >
           <Link
             to="/categorias/allProducts"
-            className=" bg-orange-600 border border-slate-950 opacity-95 rounded-3xl w-full text-center text-white 
+            className=" bg-orange-600  
+            opacity-95 rounded-3xl w-full text-center text-white 
             font-atkinson font-medium 
             text-xl lg:text-2xl p-1 px-5"
           >

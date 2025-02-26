@@ -31,7 +31,7 @@ const Galeria = () => {
                 esencial y lleva tu estilo al siguiente nivel.
               </p>
               <button
-                className="bg-orange-600 border border-slate-950 text-slate-950 inline-flex items-center
+                className="bg-orange-600  text-slate-950 inline-flex items-center
                rounded-3xl p-1 px-5 mt-3"
               >
                 Ver
