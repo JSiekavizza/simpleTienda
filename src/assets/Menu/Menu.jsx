@@ -42,7 +42,8 @@ const Menu = () => {
             <div
               key={slide.id}
               className="flex-shrink-0 w-full flex items-center 
-              justify-center text-black text-sm text-nowrap font-bold"
+              justify-center text-black text-[clamp(10px,3vw,14px)]
+              whitespace-nowrap font-bold max-w-[90vw] overflow-hidden"
             >
               {slide.text}
             </div>
